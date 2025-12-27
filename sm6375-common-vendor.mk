@@ -389,7 +389,6 @@ PRODUCT_PACKAGES += \
     libkeymasterdeviceutils \
     libkeymasterutils \
     liblbs_core \
-    liblearningmodule \
     libloc_api_v02 \
     libloc_api_wds \
     liblocationservice \
@@ -399,7 +398,6 @@ PRODUCT_PACKAGES += \
     liblqe \
     libmdmcutback \
     libmdsprpc \
-    libmeters \
     libminksocket \
     libmotext_inf \
     libnetmgr \
